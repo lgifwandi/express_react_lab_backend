@@ -1,10 +1,10 @@
 [
     {
       "name": "job application",
-      "live backend": "https://lee-project3-backend.herokuapp.com/",
-      "live frontend": "https://lee-project3.netlify.app/",
-      "git backend": "https://github.com/lgifwandi/Lee-project3-backend",
-      "git frontend": "https://github.com/lgifwandi/lee-project3-frontend",
+      "livebackend": "https://lee-project3-backend.herokuapp.com/",
+      "livefrontend": "https://lee-project3.netlify.app/",
+      "gitbackend": "https://github.com/lgifwandi/Lee-project3-backend",
+      "gitfrontend": "https://github.com/lgifwandi/lee-project3-frontend",
       "image": "https://i.imgur.com/mvlUmLH.jpg"
     }
   
