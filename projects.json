@@ -1,14 +1,11 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
-    },
-    {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "job application",
+      "live backend": "https://lee-project3-backend.herokuapp.com/",
+      "live frontend": "https://lee-project3.netlify.app/",
+      "git backend": "https://github.com/lgifwandi/Lee-project3-backend",
+      "git frontend": "https://github.com/lgifwandi/lee-project3-frontend",
+      "image": "https://i.imgur.com/mvlUmLH.jpg"
     }
+  
   ]
